@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # theo_app_test
 
 A new Flutter project.
@@ -28,3 +29,6 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+=======
+# Terminal_tests
+>>>>>>> 3a9d5d5a9aa602985b3ab9dfcd4baf268830a89e
