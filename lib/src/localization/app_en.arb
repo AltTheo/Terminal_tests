@@ -1,0 +1,6 @@
+{
+  "appTitle": "theo_app_test",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
